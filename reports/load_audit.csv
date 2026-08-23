@@ -1,0 +1,13 @@
+table,file_path,status,rows_in,rows_out,rejected,error,timestamp,runtime_s
+companies,raw/companies.xlsx,SUCCESS,92,92,0,,2026-08-23 23:06:35.316547,0.032
+profitandloss,raw/profitandloss.xlsx,SUCCESS,1276,1164,112,,2026-08-23 23:06:35.348622,0.181
+balancesheet,raw/balancesheet.xlsx,SUCCESS,1312,1140,172,,2026-08-23 23:06:35.529543,0.184
+cashflow,raw/cashflow.xlsx,SUCCESS,1187,1063,124,,2026-08-23 23:06:35.713488,0.11
+analysis,raw/analysis.xlsx,SUCCESS,20,16,4,,2026-08-23 23:06:35.823661,0.017
+documents,raw/documents.xlsx,SUCCESS,1585,1457,128,,2026-08-23 23:06:35.840984,0.105
+prosandcons,raw/prosandcons.xlsx,SUCCESS,16,14,2,,2026-08-23 23:06:35.945605,0.016
+financial_ratios,supporting/financial_ratios.xlsx,SUCCESS,1184,1160,24,,2026-08-23 23:06:35.961571,0.171
+peer_groups,supporting/peer_groups.xlsx,SUCCESS,56,56,0,,2026-08-23 23:06:36.132659,0.01
+sectors,supporting/sectors.xlsx,SUCCESS,92,92,0,,2026-08-23 23:06:36.142266,0.015
+market_cap,supporting/market_cap.xlsx,SUCCESS,552,552,0,,2026-08-23 23:06:36.157721,0.05
+stock_prices,supporting/stock_prices.xlsx,SUCCESS,5520,5520,0,,2026-08-23 23:06:36.207331,0.46

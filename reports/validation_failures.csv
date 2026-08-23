@@ -1,0 +1,567 @@
+table_name,company_id,year,field,issue,severity
+profitandloss,ADANIPORTS,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ADANIPORTS,TTM,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+profitandloss,ULTRACEMCO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ULTRACEMCO,TTM,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNIONBANK,TTM,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,UNITDSPR,TTM,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2012-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2013-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2014-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2015-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2016-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2017-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2018-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2019-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2020-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2021-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2022-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,2023-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VBL,TTM,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,VEDL,TTM,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,WIPRO,TTM,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZOMATO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZOMATO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZOMATO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZOMATO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZOMATO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZOMATO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZOMATO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZOMATO,TTM,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+profitandloss,ZYDUSLIFE,TTM,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ASIANPAINT,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ASIANPAINT,2024-09,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,PNB,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,POWERGRID,2024-09,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,TECHM,2024-09,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+balancesheet,ZYDUSLIFE,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZYDUSLIFE,2024-05,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZOMATO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZOMATO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZOMATO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZOMATO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZOMATO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZOMATO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZOMATO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ZOMATO,2024-05,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,WIPRO,2024-05,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,VEDL,2024-05,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNITDSPR,2024-05,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,UNIONBANK,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+balancesheet,ULTRACEMCO,2024-09,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,TCS,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,TCS,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ABB,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2013-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2014-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2015-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2016-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2017-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2018-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2019-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2020-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2021-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2022-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2023-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,BAJAJ-AUTO,2024-03,company_id+year,"DQ-02: duplicate (company_id, year) pair (kept last occurrence, dropped this one)",CRITICAL
+cashflow,ULTRACEMCO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ULTRACEMCO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNIONBANK,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,UNITDSPR,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2012-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2013-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2014-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2015-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2016-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2017-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2018-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2019-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2020-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2021-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2022-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VBL,2023-12,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,VEDL,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,WIPRO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZOMATO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZOMATO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZOMATO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZOMATO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZOMATO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+cashflow,ZYDUSLIFE,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+analysis,WIPRO,,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+analysis,WIPRO,,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+analysis,WIPRO,,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+analysis,WIPRO,,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2012-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2011-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2010-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ULTRACEMCO,2009-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2012-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2011-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2010-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNIONBANK,2009-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2012-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2011-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2010-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,UNITDSPR,2009-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2012-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2011-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2010-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VBL,2009-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2012-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2011-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2010-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,VEDL,2009-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2012-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2011-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2010-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,WIPRO,2009-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2012-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2011-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2010-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZOMATO,2009-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2012-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2011-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2010-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+documents,ZYDUSLIFE,2009-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+prosandcons,WIPRO,,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+prosandcons,WIPRO,,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,ULTRACEMCO,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2013-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2014-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2015-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2016-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2017-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2018-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2019-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2020-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2021-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2022-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2023-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
+financial_ratios,UNIONBANK,2024-03,company_id,"DQ-03: company_id not found in companies.id (orphan FK, rejected)",CRITICAL
