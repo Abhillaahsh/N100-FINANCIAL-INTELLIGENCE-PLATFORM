@@ -3,11 +3,19 @@ import logging
 import pytest
 
 from src.analytics.ratios import (
+    asset_turnover,
+    debt_to_equity,
+    high_leverage_flag,
+    icr_label,
+    icr_warning_flag,
+    interest_coverage_ratio,
     net_profit_margin,
     operating_profit_margin,
     return_on_equity,
     return_on_capital_employed,
     roce_benchmark,
+    debt_to_equity,
+    net_debt,
     return_on_assets,
 )
 
@@ -97,3 +105,56 @@ def test_non_financials_roce_uses_actual_roce():
         "Technology",
         sector_benchmark=12.5,
     ) == 18.0
+
+
+# DAY 09 — LEVERAGE & EFFICIENCY
+
+
+def test_debt_to_equity_debt_free():
+    assert debt_to_equity(0, 100, 50) == 0
+
+
+def test_debt_to_equity_normal():
+    assert debt_to_equity(200, 100, 100) == 1
+
+
+def test_debt_to_equity_negative_equity():
+    assert debt_to_equity(100, -150, 50) is None
+
+
+def test_high_leverage_flag():
+    assert high_leverage_flag(6, "Industrials") is True
+    assert high_leverage_flag(4, "Industrials") is False
+
+
+def test_high_leverage_financials():
+    assert high_leverage_flag(10, "Financials") is False
+
+
+def test_interest_coverage_ratio():
+    assert interest_coverage_ratio(100, 20, 10) == 12
+
+
+def test_interest_coverage_ratio_zero_interest():
+    assert interest_coverage_ratio(100, 20, 0) is None
+
+
+def test_icr_label_debt_free():
+    assert icr_label(None) == "Debt Free"
+
+
+def test_icr_warning_flag():
+    assert icr_warning_flag(1.2) is True
+    assert icr_warning_flag(2.0) is False
+
+
+def test_net_debt():
+    assert net_debt(100, 30) == 70
+
+
+def test_asset_turnover():
+    assert asset_turnover(500, 100) == 5
+
+
+def test_asset_turnover_zero_assets():
+    assert asset_turnover(500, 0) is None
