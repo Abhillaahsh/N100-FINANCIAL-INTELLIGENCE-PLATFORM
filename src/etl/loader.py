@@ -44,7 +44,7 @@ def normalize_year(value) -> str:
     text = str(value).strip()
 
     if not text:
-        return "PARSE_ERROR"
+         return "PARSE_ERROR"
 
 
     # TTM is a valid financial reporting period.
