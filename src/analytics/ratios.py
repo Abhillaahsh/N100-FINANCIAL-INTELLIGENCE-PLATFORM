@@ -467,3 +467,124 @@ def populate_financial_ratios(db_path="db/nifty100.db"):
 
     finally:
         conn.close()
+
+def log_ratio_edge_cases(
+    db_path="db/nifty100.db",
+    log_path="output/ratio_edge_cases.log",
+):
+    """Day 13: Cross-check calculated ROCE/ROE against source values."""
+    import os
+    import sqlite3
+
+    os.makedirs("output", exist_ok=True)
+
+    conn = sqlite3.connect(db_path)
+
+    try:
+        rows = conn.execute("""
+            SELECT
+                fr.company_id,
+                fr.year,
+                fr.return_on_equity_pct,
+                p.operating_profit,
+                b.equity_capital,
+                b.reserves,
+                b.borrowings,
+                c.roce_percentage,
+                c.roe_percentage
+            FROM financial_ratios fr
+            LEFT JOIN profitandloss p
+              ON p.company_id = fr.company_id
+             AND p.year = fr.year
+            LEFT JOIN balancesheet b
+              ON b.company_id = fr.company_id
+             AND b.year = fr.year
+            LEFT JOIN companies c
+              ON c.id = fr.company_id
+        """).fetchall()
+
+        anomalies = []
+
+        for (
+            company_id,
+            year,
+            computed_roe,
+            operating_profit,
+            equity_capital,
+            reserves,
+            borrowings,
+            source_roce,
+            source_roe,
+        ) in rows:
+
+            equity = (equity_capital or 0) + (reserves or 0)
+            capital_employed = equity + (borrowings or 0)
+
+            computed_roce = (
+                (operating_profit / capital_employed) * 100
+                if operating_profit is not None
+                and capital_employed > 0
+                else None
+            )
+
+            # ROCE: log when difference > 5 percentage points.
+            if computed_roce is not None and source_roce is not None:
+                difference = abs(computed_roce - source_roce)
+
+                if difference > 5:
+                    anomalies.append((
+                        company_id,
+                        year,
+                        "ROCE",
+                        computed_roce,
+                        source_roce,
+                        difference,
+                        "formula discrepancy",
+                    ))
+
+            # ROE: source value is reference/display only.
+            if computed_roe is not None and source_roe is not None:
+                difference = abs(computed_roe - source_roe)
+
+                if difference > 5:
+                    anomalies.append((
+                        company_id,
+                        year,
+                        "ROE",
+                        computed_roe,
+                        source_roe,
+                        difference,
+                        "data source issue",
+                    ))
+
+        with open(log_path, "w", encoding="utf-8") as log:
+            log.write("DAY 13 — RATIO EDGE CASE LOG\n")
+            log.write("=" * 80 + "\n\n")
+
+            if not anomalies:
+                log.write("No anomalies found.\n")
+            else:
+                for (
+                    company_id,
+                    year,
+                    ratio,
+                    computed,
+                    source,
+                    difference,
+                    category,
+                ) in anomalies:
+                    log.write(
+                        f"Company: {company_id}\n"
+                        f"Year: {year}\n"
+                        f"Ratio: {ratio}\n"
+                        f"Computed: {computed:.4f}\n"
+                        f"Source: {source:.4f}\n"
+                        f"Difference: {difference:.4f}\n"
+                        f"Category: {category}\n"
+                        f"{'-' * 80}\n"
+                    )
+
+        return len(anomalies)
+
+    finally:
+        conn.close()
